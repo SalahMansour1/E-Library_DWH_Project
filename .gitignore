@@ -1,0 +1,16 @@
+*.dtproj.user
+*.suo
+*.user
+*.log
+bin/
+obj/
+*.pbix.tmp
+*.pbix~
+*.pbit
+*.cache
+*.sql~
+*.bak
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
